@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7FFFD4&center=true&vCenter=true&width=435&lines=Hi+I'm+Anshika+👋;Web+Developer+%7C+ML+Enthusiast+%7C+AI+Lover)](https://git.io/typing-svg)
+
+
 # Anshika-Singh
 
 # Hi, I'm Anshika 👋
