@@ -4,17 +4,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" alt="Girl Dev AI" />
+  <img src="https://cdn.dribbble.com/users/1028334/screenshots/6220885/coding-freak.gif" width="350" alt="Tech Girl Coding" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-✨ Final-year techie from 🇮🇳 with a passion for **Web Dev**, **AI/ML**, and **Generative AI**  
-🧠 I build intelligent apps like `NeuroFit`, `AI Emotion Detector`, and `Task Juggler`  
-🤝 Active contributor at **GirlScript**, **IBM Intern**, **GDG ML Lead**, and **Let's Upgrade Ambassador**  
-🌍 I love sharing knowledge, mentoring, and participating in global open source & hackathons  
+✨ Final-year tech enthusiast from 🇮🇳 passionate about **Web Development**, **AI/ML**, and **Generative AI**  
+🧠 I build intelligent applications like `NeuroFit`, `AI Emotion Detector`, and `Task Juggler`  
+🤝 Contributor to **GirlScript**, **IBM Intern**, **GDG ML Lead**, **Let's Upgrade Ambassador**  
+🌍 I love sharing knowledge, mentoring peers, and thriving in open source & hackathons  
 
 🔗 **Portfolio:** [anshika-singh.netlify.app](https://anshika-singh.netlify.app)
 
@@ -103,6 +103,3 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
