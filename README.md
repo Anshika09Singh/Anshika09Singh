@@ -9,49 +9,84 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🔍 Summary
 
-🎓 Final-year B.Tech AI & ML student at **GGSIPU - USAR** (CGPA: 8.7)  
-💡 Also holds a Diploma in Electrical Engineering (80%)  
-🚀 Full Stack & AI/ML Developer | Mentoring, contributing & leading at GDG, GirlScript  
-🛠️ Building intelligent apps like `NeuroFit`, `AI Emotion Detector`, `PitchWhiz`, `Diabetes AI`  
-🌟 Passionate about **Web Dev**, **Generative AI**, **Hackathons**, and **Open Source**
+Versatile and results-driven Full Stack Web Developer and AI/ML practitioner skilled in building dynamic, responsive web applications using HTML, CSS, JavaScript, React.js, Tailwind CSS, Flask, Node.js, and Express.js. Experienced in backend integration with SQL and Flask APIs. Proficient in applying AI/ML techniques, including Natural Language Processing (NLP), Transformers, and deep learning frameworks to develop intelligent, user-adaptive features. Passionate about creating innovative solutions that combine web technology with machine learning to enhance user experience and automation.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,flask,nodejs,express,mongodb,mysql,firebase,git,github,vscode,postman,tensorflow,figma" />
-</p>
+## 🎓 Education
 
----
-
-## 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Anshika09Singh/NeuroFit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshika09Singh&repo=NeuroFit&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/Anshika09Singh/AI-Emotion-Detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshika09Singh&repo=AI-Emotion-Detector&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/Anshika09Singh/PitchWhiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshika09Singh&repo=PitchWhiz&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-</p>
+- **B.Tech in AI & ML** – GGSIPU USAR, Delhi (2023–2026) | CGPA: 8.7  
+- **Diploma in Electrical Engineering** – Govt. Polytechnic Ambedkar Nagar, UP (2020–2023) | 80%  
+- **12th (Intermediate)** – Parvati Public School, Kerakat, UP (2020) | 81%  
+- **10th (High School)** – Parvati Public School, Kerakat, UP (2018) | 87%  
 
 ---
 
 ## 💼 Experience
 
-**🔹 AI Intern** – *Prodigal AI* (Jul 2025–Present)  
-• Built NLP-based summarizers for intelligent decision tools.  
+**🔹 AI Intern** – *Prodigal AI* (Jul 2025 – Present)  
+• Built an AI Summarizer using BART Transformers for extracting summaries from multiple file types.  
+• Enabled time-based summary tracking and summary history storage.  
+• Built the full-stack app using HTML, CSS, JavaScript, Tailwind CSS, and Flask.  
 
-**🔹 Web Dev Intern** – *Bluestock Fintech* (Apr–May 2025)  
-• Developed a real-time IPO dashboard with React + Flask.  
+**🔹 Web Dev Intern** – *Bluestock Fintech* (Apr 2025 – May 2025)  
+• Built a fintech IPO dashboard using React.js frontend and Flask backend.  
+• Coordinated development tasks as Team Co-Lead.  
 
-**🔹 Frontend Intern** – *IBM CSRBOX* (Jun–Jul 2024)  
-• Created the full NeuroFit UI with React & Firebase.
+**🔹 Web Developer Intern** – *GGSIPU USAR* (Jun 2024 – Jul 2024)  
+• Contributed to MERN-based Student Management System with authentication and course module features.  
+• Focused on frontend logic and testing.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap  
+- **Backend:** Flask, Node.js, Express.js, Golang  
+- **Database / APIs:** MySQL, MongoDB, REST APIs  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Figma  
+- **AI/ML:** Python, TensorFlow, Transformers, Gemini API  
+- **Soft Skills:** Problem Solving, Time Management, Communication  
+
+---
+
+## 🔥 Projects
+
+### 🧠 [NeuroFit Brain Training Hub](https://github.com/Anshika09Singh/NeuroFit)  
+React.js + Tailwind + Node.js brain fitness app featuring cognitive games, real-time feedback, progress tracking.
+
+### 🗂️ [PitchWhiz](https://github.com/Anshika09Singh/PitchWhiz)  
+Classifies startup pitch emails using Gemini API with summaries, keyword extraction, and Airtable storage.
+
+### 💉 [Diabetes Care With AI](https://github.com/Anshika09Singh/Diabetes-Care-AI)  
+AI-powered chatbot + diabetes prediction system with personalized risk feedback and visualizations.
+
+### ⚖️ Legal System API  
+Golang + Gin-based secure REST API for case tracking, file uploads, and messaging in legal workflows.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🧠 ML Lead @ **GDG & W-GDG**  
+- 👩‍🏫 Mentor @ **GirlScript Summer of Code (GSSoC '25)**  
+- 🎓 Mentee @ **Girls Leading Tech (ML Track)**  
+- ✅ IBM Data Analysis with Python (SkillBuild)  
+- ✅ IBM Generative AI (CSRBOX)  
+- 🧪 Postman API Fundamentals  
+- 🧠 Cleared **Flipkart Grid 7.0 Round 1**  
+- 🧠 Qualified **Unstop Talent Park Round 1**  
+- 🧑‍🎓 Student Ambassador @ **Let’s Upgrade**
+
+---
+
+## 🧰 Tech Stack Icons
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,flask,nodejs,express,mongodb,mysql,firebase,git,github,vscode,postman,tensorflow,figma" />
+</p>
 
 ---
 
@@ -68,34 +103,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshika09Singh&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshika09Singh&theme=tokyonight&no-frame=true&no-bg=true" />
 </p>
-
----
-
-## 🧠 Other Projects & Demos
-
-- 🧠 **NeuroFit** – Gamified brain training hub (React + Node)  
-  🔗 [Live](https://anshikasingh-portfolio.vercel.app) | [GitHub](https://github.com/Anshika09Singh/NeuroFit)
-
-- 💉 **Diabetes AI** – Prediction + Gemini chatbot-based medical advisor
-
-- ⚖️ **LegalSys API** – Golang REST API for managing legal workflows
-
-- 💼 **Jovian Career Portal** – Job finder + tracker with Firebase & Flask
-
----
-
-## 🎖️ Achievements & Certifications
-
-- ML Lead – **Google Developer Groups (GDG & W-GDG)**  
-- Mentor – **GirlScript Summer of Code (GSSOC 2025)**  
-- Finalist – **AI/ML Hackathons**, GWEPMedalist  
-- Certified – Postman APIs, IBM Python DA, GenAI (Hack2Skill), Flipkart Grid  
-- Student Ambassador – **Let’s Upgrade**
 
 ---
 
