@@ -76,14 +76,6 @@
 
 ---
 
-## 📈 WakaTime Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anshika09Singh&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🧠 Other Projects & Demos
 
 - 🧠 **NeuroFit** – Gamified brain training hub (React + Node)  
