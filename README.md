@@ -1,10 +1,10 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Anshika+Singh;AI+%26+ML+Engineer+%7C+Web+Developer+%7C+NLP+Explorer" alt="Typing SVG" />
+  <img src="https://cdn.dribbble.com/users/253246/screenshots/17668103/media/fc2be0cbfe647f43d46ea69f8dc742dd.gif" height="300" alt="Girl Coding Banner">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anshika09Singh/Anshika09Singh/main/assets/hero-animation.gif" alt="AI Girl" height="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Anshika+Singh;AI+%26+ML+Engineer+%7C+Web+Developer+%7C+NLP+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,6 +13,10 @@
 ## 🔍 Summary
 
 Creative and driven **AI/ML Engineer** and **Full Stack Developer** passionate about building smart, user-centric applications. Skilled in crafting responsive frontend interfaces and scalable backend systems, with expertise in ML models, NLP, and transformer-based AI solutions.
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/15668299/media/3d6ac60b69e41d2b47c38b2fcdf0cd3e.gif" height="180" alt="Tech Stack Visual">
+</p>
 
 ---
 
@@ -57,6 +61,10 @@ Creative and driven **AI/ML Engineer** and **Full Stack Developer** passionate a
 | **Database** | MongoDB • MySQL • Firebase                                |
 | **ML/AI**    | Python • TensorFlow • Transformers • Gemini API           |
 | **Tools**    | Git • GitHub • VS Code • Postman • Figma                  |
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2926009/screenshots/14778029/media/e7a64e17914a5a9be6e4f5fd0d8722ad.gif" height="180" alt="AI ML Animation" />
+</p>
 
 ---
 
