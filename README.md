@@ -1,10 +1,10 @@
 <!-- Hero Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Anshika+Singh;Full+Stack+Dev+%7C+ML+Lead+@+GDG+🚀+%7C+AI+Explorer+%F0%9F%A4%96;Building+NeuroFit+%7C+Open+Source+Contributor+🌍" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Anshika+Singh;AI+%26+ML+Engineer+%7C+Web+Developer+%7C+NLP+Transformer;Tech+Girl+Building+NeuroFit+%F0%9F%94%A5;Full+Stack+Dev+%7C+ML+Lead+@+GDG+%F0%9F%9A%80+%7C+AI+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D+%7C+Hackathon+Lover" />
 </h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1028334/screenshots/6220885/coding-freak.gif" width="330" alt="Tech Girl Coding" />
+  <img src="https://cdn.dribbble.com/users/1708956/screenshots/4188872/media/c2652fe014b98b5ecb1f70fddcab4edb.gif" width="330" alt="Girl Coding" />
 </p>
 
 ---
