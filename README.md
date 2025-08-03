@@ -1,15 +1,22 @@
-<!-- Heading -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00FFFF;">Anshika Singh</span></h1>
-<h3 align="center">AI & ML Engineer | Full Stack Web Developer | NLP Explorer</h3>
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Anshika+Singh;AI+%26+ML+Engineer+%7C+Web+Developer+%7C+NLP+Explorer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anshika09Singh/Anshika09Singh/main/assets/hero-animation.gif" alt="AI Girl" height="300"/>
+</p>
 
 ---
 
+<!-- Summary -->
 ## 🔍 Summary
 
-Creative and driven **AI/ML Engineer** and **Full Stack Developer** with a passion for building smart, user-centric applications. Experienced in crafting responsive frontend interfaces and scalable backend systems while integrating ML models to enhance automation and decision-making. Strong background in web development, NLP, and transformer-based AI solutions.
+Creative and driven **AI/ML Engineer** and **Full Stack Developer** passionate about building smart, user-centric applications. Skilled in crafting responsive frontend interfaces and scalable backend systems, with expertise in ML models, NLP, and transformer-based AI solutions.
 
 ---
 
+<!-- Education -->
 ## 🎓 Education
 
 📌 **B.Tech in AI & ML** – GGSIPU USAR, Delhi (2023–2026) — CGPA: 8.7  
@@ -19,6 +26,7 @@ Creative and driven **AI/ML Engineer** and **Full Stack Developer** with a passi
 
 ---
 
+<!-- Experience -->
 ## 💼 Experience
 
 ### 🧠 AI Intern — Prodigal AI _(Jul 2025 – Present)_
@@ -34,8 +42,13 @@ Creative and driven **AI/ML Engineer** and **Full Stack Developer** with a passi
 - Contributed to MERN-based Student Management System.
 - Developed auth flows, frontend dashboards, and test coverage.
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="180" alt="Coding Animation" />
+</p>
+
 ---
 
+<!-- Skills -->
 ## 🛠️ Technical Skills
 
 | **Frontend** | HTML • CSS • JavaScript • React.js • Tailwind • Bootstrap |
@@ -47,6 +60,7 @@ Creative and driven **AI/ML Engineer** and **Full Stack Developer** with a passi
 
 ---
 
+<!-- Projects -->
 ## 🚀 Featured Projects
 
 ### 🧠 [NeuroFit](https://github.com/Anshika09Singh/NeuroFit)
@@ -54,33 +68,31 @@ Creative and driven **AI/ML Engineer** and **Full Stack Developer** with a passi
 **Tech:** React.js, Node.js, Tailwind CSS  
 **Focus:** UI, mental health tools, analytics
 
----
-
 ### 💼 [PitchWhiz](https://github.com/Anshika09Singh/PitchWhiz)
 > AI Classifier for startup pitch emails with summary generation  
 **Tech:** Gemini API, Flask, Airtable  
 **Focus:** Email NLP + AI pipeline
-
----
 
 ### 🩺 [Diabetes Care AI](https://github.com/Anshika09Singh/Diabetes-Care-AI)
 > Chatbot + predictive model for diabetes risk and diet suggestions  
 **Tech:** Python, Streamlit, TensorFlow  
 **Focus:** ML health assistant
 
----
-
 ### ⚖️ Legal API (Private Repo)
 > RESTful API system for case handling and user role management  
 **Tech:** Golang, Gin, MongoDB  
 **Focus:** Legal tech backend architecture
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/ai.gif" height="180" />
+</p>
+
 ---
 
+<!-- Achievements -->
 ## 📜 Certifications & Achievements
 
 🎓 IBM: Data Analysis with Python | Generative AI  
-💡 ML Lead @ GDG & W-GDG  
 👩‍🏫 Mentor @ GSSoC'25 | Mentee @ Girls Leading Tech  
 🧪 Postman API Fundamentals Certified  
 📈 Cleared Flipkart Grid 7.0 (Round 1)  
@@ -89,6 +101,7 @@ Creative and driven **AI/ML Engineer** and **Full Stack Developer** with a passi
 
 ---
 
+<!-- Tech Stack -->
 ## 🧰 Tech Stack Icons
 
 <p align="center">
@@ -97,6 +110,7 @@ Creative and driven **AI/ML Engineer** and **Full Stack Developer** with a passi
 
 ---
 
+<!-- GitHub Stats -->
 ## 📊 GitHub Insights
 
 <p align="center">
@@ -110,6 +124,7 @@ Creative and driven **AI/ML Engineer** and **Full Stack Developer** with a passi
 
 ---
 
+<!-- Trophies -->
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -118,6 +133,7 @@ Creative and driven **AI/ML Engineer** and **Full Stack Developer** with a passi
 
 ---
 
+<!-- Connect -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -129,9 +145,6 @@ Creative and driven **AI/ML Engineer** and **Full Stack Developer** with a passi
   </a>
   <a href="https://github.com/Anshika09Singh" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:157716478+123anshi@users.noreply.github.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
