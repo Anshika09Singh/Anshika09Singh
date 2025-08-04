@@ -7,8 +7,9 @@
 
 <!-- Profile Picture & Short Bio -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Girl"/>
+  <img src="https://i.imgur.com/yourImageId.png" width="250" alt="Cartoon Coding Girl"/>
 </p>
+
 
 <p align="center">
   <b>Web Developer | AI/ML Enthusiast | GitHub Explorer | Tech Creator</b>  
@@ -32,15 +33,15 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🎯 **NeuroFit - Brain Fitness Game Hub** | Cognitive Flexibility & Brain Puzzle Games | React.js, Tailwind CSS, AI API |
-| 🧠 **Emotion Detection Web App** | Real-time emotion analysis from webcam | Flask, TensorFlow.js, WebRTC, Tailwind |
+| 🧠 **Diabetes care with AI** | ml dataset  | Flask, TensorFlow.js, , Tailwind |
 | 🌐 **Portfolio Website** | Personal responsive portfolio | HTML, CSS, JavaScript, Vercel |
-| 🗂️ **Student Portal System** | Frontend + PHP based student dashboard | PHP, HTML, CSS, Bootstrap |
+| 🗂️ **jovian Career Website** | html , css  javascript , tailwindcss , replicit , firebase , flask , python |
 
 ---
 
 <!-- Achievements -->
 ## 🏆 Achievements
-- 🧠 ML Lead at Google Developer Group (GDG) & Women-GDG
+- 🧠 Mentor at GirlScript Summer of Code 2025
 - 🌟 Contributor at GirlScript Summer of Code 2024
 - 🥇 IBM Internship on Web Development
 - 🏅 API Postman Fundamentals Certified
@@ -67,9 +68,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anshika-singh09/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:157716478+123anshi@users.noreply.github.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Anshika09Singh"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://anshikasingh-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  
 </p>
 
 ---
