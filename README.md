@@ -6,10 +6,7 @@
 ---
 
 <p align="center">
-  <img src="<p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Girl Coding GIF"/>
-</p>
-" width="250" alt="Girl Coding GIF"/>
 </p>
 
 
