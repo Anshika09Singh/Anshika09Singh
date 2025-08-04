@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="[https://leetcode.com/Anshika09Singh/](https://leetcode.com/u/Anshika09singh/)" target="_blank">
+  <a href="https://leetcode.com/Anshika09Singh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
