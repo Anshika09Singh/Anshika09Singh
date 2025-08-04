@@ -5,7 +5,9 @@
 
 ---
 
-![Uploading Futuristic Programmer in Neon Lab (1).png…]()
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="GIF Coding Girl"/>
+</p>
 
 
 
