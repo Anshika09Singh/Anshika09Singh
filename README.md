@@ -5,10 +5,8 @@
 
 ---
 
-<!-- Profile Picture & Short Bio -->
-<p align="center">
-  <img src="https://i.imgur.com/yourImageId.png" width="250" alt="Cartoon Coding Girl"/>
-</p>
+![Uploading Futuristic Programmer in Neon Lab (1).png…]()
+
 
 
 <p align="center">
