@@ -6,8 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Girl Coding GIF"/>
+  <img src="https://img.freepik.com/premium-photo/girl-with-laptop-working-digital_1028654-13851.jpg" width="250" alt="Girl with Laptop"/>
 </p>
+
 
 
 
