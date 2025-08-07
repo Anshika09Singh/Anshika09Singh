@@ -67,6 +67,15 @@
 
 ---
 
+---
+
+## 📉 Learning Curve & Growth (Sample Graph)
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['2022','2023','2024','2025'],datasets:[{label:'Web Dev',data:[10,30,60,90],fill:false,borderColor:'cyan'},{label:'AI/ML',data:[5,25,55,85],fill:false,borderColor:'magenta'}]},options:{scales:{x:{title:{display:true,text:'Year'}},y:{title:{display:true,text:'Skill Level (%)'}}}}}" alt="Skill Growth Graph" width="600"/>
+</p>
+
+
 ## ✨ Quote of the Day
 
 > _“Code is the language of the future. I’m just writing my chapter.”_
