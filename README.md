@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/girl-with-laptop-working-digital_1028654-13851.jpg" width="220" style="border-radius: 50%; box-shadow: 0px 0px 10px #00ffff;" />
+  <img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_640.png" width="320" style="border-radius: 50%; box-shadow: 0px 0px 10px #00ffff;" />
 </p>
 
 ---
