@@ -72,8 +72,9 @@
 ## 📉 Learning Curve & Growth (Sample Graph)
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['2022','2023','2024','2025'],datasets:[{label:'Web Dev',data:[10,30,60,90],fill:false,borderColor:'cyan'},{label:'AI/ML',data:[5,25,55,85],fill:false,borderColor:'magenta'}]},options:{scales:{x:{title:{display:true,text:'Year'}},y:{title:{display:true,text:'Skill Level (%)'}}}}}" alt="Skill Growth Graph" width="600"/>
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222022%22%2C%222023%22%2C%222024%22%2C%222025%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Web%20Dev%22%2C%22data%22%3A%5B10%2C30%2C60%2C90%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22cyan%22%7D%2C%7B%22label%22%3A%22AI%2FML%22%2C%22data%22%3A%5B5%2C25%2C55%2C85%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22magenta%22%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22x%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Year%22%7D%7D%2C%22y%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Skill%20Level%20(%)%22%7D%7D%7D%7D%7D" alt="Skill Growth Graph" width="600"/>
 </p>
+
 
 
 ## ✨ Quote of the Day
