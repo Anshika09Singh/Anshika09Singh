@@ -1,49 +1,90 @@
-<!-- Animated Hero Banner -->
+<!-- Header Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Anshika+Singh;Web+Developer+%7C+AI%2FML+Engineer;Open+Source+Contributor+%7C+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Anshika+Singh;AI%2FML+Engineer+%26+Researcher;AWS+Certified+Developer+Associate;Mentor+%40+GSSoC+'25;Building+the+Future+of+AI" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_640.png" width="420" style="border-radius: 50%; box-shadow: 0px 0px 10px #00ffff;" />
+  <img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_640.png" width="220" style="border-radius: 50%; border: 4px solid #00ffff; box-shadow: 0px 0px 20px #00ffff;" />
+</p>
+
+<p align="center">
+  <b>🤖 AI Intern @ TheSmartBridge | ☁️ AWS Certified | 🌍 GSSOC Mentor</b>  
+  <br>
+  🚀 Passionate about Generative AI, NLP, and Cloud Architecture. Turning complex data into intelligent solutions.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/github/followers/Anshika09Singh?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Anshika09Singh&color=00ffff&style=flat-square&label=PROFILE+VIEWS" alt="Anshika09Singh" />
 </p>
 
 ---
 
-<p align="center">
-  <b>💻 Web Developer | 🤖 AI/ML Enthusiast | 🌍 GitHub Explorer | ⚙️ Tech Creator</b>  
-  <br>
-  🚀 Passionate about building scalable web apps, smart AI systems, and solving real-world problems with code!
-</p>
+## 💼 Professional Experience
+
+✨ **AI Intern** @ [TheSmartBridge](https://thesmartbridge.com/) *(Jan 2026 - Present)*  
+🔹 **Project Admin** @ Elite Coders *(Jan 2026 - Mar 2026)*  
+🔹 **Mentor** @ GirlScript Summer of Code *(Jul 2025 - Oct 2025)*  
+🔹 **Amazon ML Cohort '25** | Mentee @ Girls Leading Tech  
+🔹 **AI Intern** @ Prodigal AI *(Jul 2025 - Aug 2025)*  
+🔹 **Coordinator** @ Tradophile - GGSIPU EDC  
+🔹 **ML Coordinator** @ GDG-USAR  
+
+---
+
+## 📜 Certifications & Achievements
+
+🏆 **AWS Certified Developer – Associate**  
+🏆 **AWS Certified Cloud Practitioner**  
+🤖 **Micro1 AI Evaluation Certified**  
+🌟 **Mentor** @ GSSoC 2025  
+📊 **Big Data 101 & Data Analysis** - IBM Certified  
+🎓 **AWS Academy Graduate** - Cloud Foundations  
 
 ---
 
 ## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,python,flask,git,github,mongodb,figma,vercel&perline=8" alt="Tech Stack" />
+
+### 🧠 AI / ML & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,scikitlearn,mongodb,mysql" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,vercel" />
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,flask" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## ✨ Featured Projects
 
-🌟 Intern at **Prodigal AI**  
-👩‍🏫 **Mentor** @ GirlScript Summer of Code 2025  
-💻 **Contributor** @ GirlScript Summer of Code 2024  
-🌐 **Web Development Intern** @ IBM  
-📮 **API Postman Fundamentals** Certified  
-🎓 **Microsoft Student Ambassador** - Tech Training Completed
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🌿 **[Heal Veda](https://github.com/Anshika09Singh)** | A Pure Zen AI healthcare platform with RAG-based medical assistance and a minimalist clinical UI. | React, Python, RAG, AI |
+| 🩺 **[Diabetes Care AI](https://github.com/Anshika09Singh/Diabetes-care-with-AI)** | AI-driven diagnostic system providing personalized care plans and predictive health insights. | Python, ML, Flask |
+| 🤖 **[AI Interviewer](https://github.com/Anshika09Singh)** | Intelligent mock interview platform with real-time feedback and performance analytics. | Node.js, AI, WebSockets |
+| 🧠 **[NeuroFit](https://github.com/Anshika09Singh/NeuroFit)** | Cognitive fitness hub designed to improve mental health through interactive gaming. | JS, HTML/CSS |
 
 ---
 
-## 📈 GitHub Activity & Stats
-
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshika09Singh&show_icons=true&theme=tokyonight&hide=stars" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika09Singh&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshika09Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika09Singh&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+---
+
+## 🐍 Contribution Journey
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshika09Singh&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Anshika09Singh/Anshika09Singh/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 ---
@@ -51,38 +92,24 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anshika-singh09/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Anshika09Singh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23171515?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/anshika-singh093/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" />
   </a>
   <a href="https://anshikasingh-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white&color=000000" />
   </a>
   <a href="https://leetcode.com/Anshika09Singh/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode&logoColor=black&color=FFA116" />
+  </a>
+  <a href="mailto:anshikasingh.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Message-red?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" />
   </a>
 </p>
 
----
-
----
-
-## 📉 Learning Curve & Growth (Sample Graph)
-
 <p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222022%22%2C%222023%22%2C%222024%22%2C%222025%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Web%20Dev%22%2C%22data%22%3A%5B10%2C30%2C60%2C90%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22cyan%22%7D%2C%7B%22label%22%3A%22AI%2FML%22%2C%22data%22%3A%5B5%2C25%2C55%2C85%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22magenta%22%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22x%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Year%22%7D%7D%2C%22y%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Skill%20Level%20(%)%22%7D%7D%7D%7D%7D" alt="Skill Growth Graph" width="600"/>
+  <i>"Code is the language of the future. I’m just writing my chapter."</i>
 </p>
 
-
-
-## ✨ Quote of the Day
-
-> _“Code is the language of the future. I’m just writing my chapter.”_
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
 </p>
