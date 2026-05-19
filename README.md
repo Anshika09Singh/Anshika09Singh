@@ -72,20 +72,10 @@
 | 🤖 **[AI Interviewer](https://github.com/Anshika09Singh)** | Intelligent mock interview platform with real-time feedback and performance analytics. | Node.js, AI, WebSockets |
 | 🧠 **[NeuroFit](https://github.com/Anshika09Singh/NeuroFit)** | Cognitive fitness hub designed to improve mental health through interactive gaming. | JS, HTML/CSS |
 
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshika09Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika09Singh&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🐍 Contribution Journey
+---## 🐍 Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anshika09Singh/Anshika09Singh/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Anshika09Singh/Anshika09Singh/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
