@@ -23,7 +23,8 @@
 
 ## 💼 Professional Experience
 
-✨ **AI Intern** @ [TheSmartBridge](https://thesmartbridge.com/) *(Jan 2026 - Present)*  
+**Trainee - AIML engineer** @ [L&T) *(July 2026 - present)*
+✨ **AI Intern** @ [TheSmartBridge](https://thesmartbridge.com/) *(Jan 2026 - june 2026)*  
 🔹 **Project Admin** @ Elite Coders *(Jan 2026 - Mar 2026)*  
 🔹 **Mentor** @ GirlScript Summer of Code *(Jul 2025 - Oct 2025)*  
 🔹 **Amazon ML Cohort '25** | Mentee @ Girls Leading Tech  
